@@ -1,5 +1,4 @@
 * {
-  
   margin: 0;
   padding: 0;
   list-style: none;
@@ -16,6 +15,7 @@ body{
 .writing {
   background-color: rgb(170, 35, 170);
 }
+
 .computer,
 .bible,
 .fear,
