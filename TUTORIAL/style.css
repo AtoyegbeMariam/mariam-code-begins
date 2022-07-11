@@ -1,0 +1,42 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+}
+
+body{
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.writing {
+  background-color: rgb(170, 35, 170);
+}
+.computer,
+.bible,
+.fear,
+.testing {
+  width: 100%;
+  height: auto;
+  border-radius: 40px;
+}
+
+#language {
+  background-color: brown;
+}
+
+h1 {
+  color: blue;
+}
+
+#scripture,
+.tech,
+.typescript,
+.writing,
+.christian {
+  padding: 30px;
+}
