@@ -1,27 +1,35 @@
 .code {
   background-color: aqua;
 }
+
 .solution {
   background-color: rgb(127, 255, 148);
 }
+
 .issue {
   background-color: rgb(7, 83, 71);
 }
+
 #skills {
   background-color: blue;
 }
+
 #ideas {
   background-color: rgb(199, 52, 52);
 }
+
 #critics {
   background-color: rgb(136, 44, 136);
 }
+
 h1 {
   color: whitesmoke;
 }
+
 h2 {
   color: rgb(18, 105, 29);
 }
+
 .puzzle {
   width: 30%;
   height: auto;
