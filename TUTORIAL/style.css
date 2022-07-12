@@ -1,4 +1,5 @@
 * {
+  
   margin: 0;
   padding: 0;
   list-style: none;
@@ -10,10 +11,17 @@
 body{
   min-height: 100vh;
   min-width: 100vw;
+  padding: 20px;
 }
 
-.writing {
-  background-color: rgb(170, 35, 170);
+.tech,
+.typescript,
+.writing{
+margin-top: 40px;
+}
+.container{
+  padding: 50px;
+  background-color: blueviolet;
 }
 
 .computer,
@@ -22,21 +30,42 @@ body{
 .testing {
   width: 100%;
   height: auto;
-  border-radius: 40px;
+  border-radius: 20px;
+}
+.beginner{
+  width: 68%;
+  border: 2px solid yellow;
 }
 
-#language {
-  background-color: brown;
+.begining{
+  width: 52%;
+  border: 2px solid yellow;
+}
+
+.begins{
+  width: 42%;
+  border: 2px solid red;
+}
+
+.begin{
+  width: 80%;
+  border: 2px solid gold;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: justify;
 }
 
 h1 {
-  color: blue;
+  /* color: blue; */
+  margin-top: 15px;
+  /* text-decoration: underline; */
 }
 
-#scripture,
-.tech,
-.typescript,
-.writing,
-.christian {
-  padding: 30px;
+#language h1{
+  color: aqua;
+  
 }
+
